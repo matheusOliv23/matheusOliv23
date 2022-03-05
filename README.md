@@ -1,6 +1,6 @@
 ## Oiii! Me chamo Matheus Henrique
 - 🌱 Atualmente estudando React, Next e Typescript
-- Estou trabalhando como freelancer mas aberto a outras oportunidades de emprego também.
+
  <div>
   <a href="https://github.com/matheusOliv23">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=matheusOliv23&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
