@@ -1,5 +1,5 @@
 ## Oiii! Me chamo Matheus Henrique
--  Atualmente estudando React, Next e Typescript.
+-  Atualmente estudando React, Next, Typescript e as vezes Jest
 - Trabalho na modalidade freelancer e busco uma oportunidade de crescimento dentro de uma empresa
 - Meu github está com várias falhas: estou em processo de melhoria
 - Aquele lack de mais/menos 3 meses no histórico de commits não mostra que eu parei. Estava totalmente dedicado ao freela e nao subi nenhum codigo pessoal nesse tempo.
