@@ -1,5 +1,5 @@
-## Oiii! Seja bem vindo ao meu Portfólio
--  Atualmente estudando React, Next, Typescript, Jest, Cypress e Node
+## Hi there! Welcome to my Portfolio.
+-  Currently studying React, Next, TypeScript, Jest, Cypress, and Node.
 
  <div>
   <a href="https://github.com/matheusOliv23">
