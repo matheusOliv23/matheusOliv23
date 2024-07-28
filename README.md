@@ -1,5 +1,28 @@
 ## Hi there! Welcome to my Portfolio.
--  Currently studying React, Next, TypeScript, Jest, Cypress, and Node.
+  
+I started learning programming at the end of 2020 and found a strong interest in web development. Since then, I have been continuously improving my skills and striving to develop high-performance, responsive applications with an excellent user experience.
+
+### My hard skills
+
+☑ 3+ years of experience in front-end development with React.js and Next.js.
+
+☑ 3+ years of experience and excellent skills in HTML, CSS, JavaScript, and TypeScript.
+
+☑ 3+ years of experience in CSS frameworks such as Tailwind CSS and Styled Components.
+
+☑ Experience in testing with Jest, React Testing Library, and Cypress.
+
+☑ Experience in agile development with Scrum.
+
+☑ Experience and good skills with Git and GitHub.
+
+☑ Experience and good knowledge in React Native.
+
+☑ Experience and good knowledge of Clean Code, TDD, and SOLID principles.
+
+☑ Knowledge of Node.js and Nest.js.
+
+☑ Knowledge of relational and non-relational databases and Docker.
 
  <div>
   <a href="https://github.com/matheusOliv23">
